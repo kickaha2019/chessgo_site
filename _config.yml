@@ -1,0 +1,42 @@
+title: Cambridge Junior Chess and Go Club
+email: cambridgechessgo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Cambridge Junior Chess and Go Club
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://alofmethbin.dreamhosters.com
+footer: |
+  We are entirely run by volunteers (including parents) and
+  we really welcome help to make the club run as smoothly as
+  possible. That includes parents helping out on the desk at
+  the start of sessions, and helping to put tables out at
+  the start and clearing away at the end.
+          
+  If you would like any more information or have
+  suggestions please email
+  us (cambridgechessgo at gmail dot com).
+
+# Build settings
+ignore_theme_config: true
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

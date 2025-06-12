@@ -1,0 +1,21 @@
+- name:   index
+  title:  Home
+  description:  Home page
+- name:   calendar
+  title:  Calendar
+  description:  Meeting schedule
+- name:   about
+  title:  About<BR>the club
+  description:  About the club
+- name:   team
+  title:  Club<BR>organisers
+  description:  Club team
+- name:   events
+  title:  Events
+  description:  Club events
+- name:   local
+  title:  Clubs and<BR>teaching
+  description:  Clubs in the local area
+- name:   documents
+  title:  Documents
+  description:  Club official documents

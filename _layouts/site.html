@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/site.css">
+  </head>
+  <body>
+    <div class="page">
+      <h1>{{ site.title }}</h1>
+      <nav class="narrow">
+        {% for section in site.data.pages %}
+          {% assign name = section.name | append: ".md" %}
+          {% if name != page.name %}
+            <a href="/{{ section.name }}.html">{{ section.description }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+      <nav class="wide">
+        {%- for section in site.data.pages -%}
+          {% assign name = section.name | append: ".md" %}
+          {% if name == page.name %}
+            <div><span>{{ section.title }}</span></div>
+          {% else %}
+            <a href="/{{ section.name }}.html"><div class="a"><span>{{ section.title }}</span></div></a>
+          {%- endif -%}
+        {% endfor %}
+      </nav>
+      <section>
+        {% if page.image %}
+          <img src="{{ page.image }}">
+        {% endif %}
+        {{ content }}
+      </section>
+      <footer>
+        {{ site.footer | markdownify }}
+      </footer>
+    </page>
+  </body>
+</html>
+

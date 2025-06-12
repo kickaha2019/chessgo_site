@@ -1,0 +1,16 @@
+---
+layout: site
+---
+{{ content }}
+
+<table class="documents">
+{% for document in site.data.documents %}
+<tr><td>
+The club
+<a href="/pdfs/{{ document.file }}.pdf" target="_blank">{{ document.title }}</a>
+{% if document.updated %}
+(updated {{ document.updated }})
+{% endif %}
+</td></tr>
+{% endfor %}
+</table>

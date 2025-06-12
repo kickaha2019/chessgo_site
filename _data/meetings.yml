@@ -1,0 +1,87 @@
+- date:     April 23rd 2025
+  location: 0
+  teaching: Go
+  activity:
+- date:     April 24th 2025
+  location: 1
+  teaching: Go
+  activity:
+- date:     April 30th 2025
+  location: 0
+  teaching: Chess
+  activity:
+- date:     May 1st 2025
+  location: 1
+  teaching: Chess
+  activity:
+- date:     May 7th 2025
+  location: 0
+  teaching: Go
+- date:     May 8th 2025
+  location: 1
+  teaching: Go
+- date:     May 14th 2025
+  location: 0
+  teaching: Chess
+- date:     May 15th 2025
+  location: 1
+  teaching: Chess
+- date:     May 21st 2025
+  location: 0
+  teaching: Go
+- date:     May 22nd 2025
+  location: 1
+  teaching: Go
+- date:     June 4th 2025
+  location: 0
+  teaching: Go
+- date:     June 5th 2025
+  location: 1
+  teaching: Go
+- date:     June 11th 2025
+  location: 0
+  teaching: Chess
+- date:     June 12th 2025
+  location: 1
+  teaching: Chess
+- date:     June 18th 2025
+  location: 0
+  teaching: Go
+  activity:
+- date:     June 19th 2025
+  location: 1
+  teaching: Go
+  activity:
+- date:     June 25th 2025
+  location: 0
+  teaching: Chess
+  activity:
+- date:     June 26th 2025
+  location: 1
+  teaching: Chess
+  activity:
+- date:     July 2nd 2025
+  location: 0
+  teaching: 
+  activity: Go/Other games
+- date:     July 3rd 2025
+  location: 1
+  teaching:
+  activity: Go/Other games
+- date:     July 9th 2025
+  location: 0
+  teaching:
+  activity: Chess/Other games
+- date:     July 10th 2025
+  location: 1
+  teaching:
+  activity: Chess/Other games
+- date:     July 16th 2025
+  location: 0
+  teaching:
+  activity: Go/Other games
+- date:     July 17th 2025
+  location: 1
+  teaching:
+  activity: Go/Other games
+  

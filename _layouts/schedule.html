@@ -1,0 +1,16 @@
+---
+layout: site
+---
+{{ content }}
+
+<table class="schedule">
+<tr><th>Date</th><th>Time</th><th>Location</th><th>Teaching</th><th>Activity</th></tr>
+{% for meeting in site.data.meetings %}
+<tr><td>{{ meeting.date }}</td>
+<td>{{ site.data.locations[meeting.location].time }}</td>
+<td>{{ site.data.locations[meeting.location].place }}</td>
+<td>{{ meeting.teaching }}</td>
+<td>{{ meeting.activity }}</td></tr>
+</td></tr>
+{% endfor %}
+</table>
