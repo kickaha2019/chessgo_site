@@ -16,10 +16,8 @@ Occasionally other games like
   
 We have meetings in the north of Cambridge at St Augustine's Hall, 
 Richmond Road, Cambridge CB4 3PT
-on Wednesdays and in the
-south of Cambridge at St Philip's Church, 
-185 Mill Road, Cambridge CB1 3AN
-on Thursdays. All meetings cost £5 per week. Or 
+on Wednesdays from 5.30pm to 7pm 
+during term time. All meetings cost £5 per week. Or 
 you can pay for a whole term in advance for £40, contact us 
 (cambridgechessgo at gmail dot com) for the bank details.
 There will be some additional subscription fees for other 

@@ -1,9 +1,6 @@
 - name:   index
   title:  Home
   description:  Home page
-- name:   calendar
-  title:  Calendar
-  description:  Meeting schedule
 - name:   about
   title:  About<BR>the club
   description:  About the club

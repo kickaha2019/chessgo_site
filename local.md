@@ -4,7 +4,7 @@ title: Clubs and teaching
 ---
 ## Clubs for Children
 
-*Cambridge Junior Chess & Go Club* - this club! - We have meetings on Wednesdays at St Augustine's Church hall in the north of Cambridge and on Thursdays at St Philip's Church in the south of Cambridge.
+*Cambridge Junior Chess & Go Club* - this club! - We have meetings on Wednesdays at St Augustine's Church hall in the north of Cambridge.
 
 The [Anglia Learning Chess Academy](https://sawstonvc.org/anglian-learning-chess-academy/){:target="_blank"}
  meets on Fridays during term time at Sawston Village College and 
