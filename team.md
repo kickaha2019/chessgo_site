@@ -1,16 +1,15 @@
 ---
 layout: site
-title: Club team
+title: Volunteering
 ---
-## Club committee and helpers
+## Volunteering
 
-The club committee are: Tom McNeeney, Spyros Roumeliotis, 
-Tamsin O'Connell, Irene Yue Ling Yeung, Ping Lian, 
-Peter Rootham-Smith,
-and Svetlana Stoyanchev.
+The club is entirely run by volunteers, and we are very grateful to
+all our organisers and teachers.
 
-The club is very grateful to all the others who help organise the 
-club, including Paul, Michael, Nikoleta, Aisha, 
-Vicki and James; as well as parents who help on the club 
-front desk including Dan, Louise, Liudmila and Helena.
+If you are interested in volunteering to teach Chess or Go, or just
+to help out, please email us at
+[cambridgechessgo@gmail.com](mailto:cambridgechessgo@gmail.com).
 
+Volunteers may need a DBS check. We can help arrange this, and there
+is no cost to the volunteer.
