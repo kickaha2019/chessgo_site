@@ -12,9 +12,6 @@ The [Anglia Learning Chess Academy](https://sawstonvc.org/anglian-learning-chess
  6pm-8pm. For more information contact Paul Kemp (paulkemp64 at 
  gmail dot com)
 
-The [Cambridge Chess Academy](https://www.storeysfieldcentre.org.uk/event/cambridge-chess-academy/){:target="_blank"}
-runs fortnightly chess club and coachings sessions for children.
-
 The online club 
 [Chess Steps](https://www.facebook.com/stepintochess/){:target="_blank"}
 runs on Fridays at 5pm and Saturdays at 6:30pm. Each session is one hour. They have many children from Cambourne and Cambridgeshire attending. *Chess Steps* also offer online one to one chess coaching.
