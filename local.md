@@ -55,3 +55,6 @@ Here is some information about the
 
 [The Cambridge City Go Club](https://britgo.org/club/cambridge){:target="_blank"}
 meets at the Devonshire Arms at 7pm on Sundays.
+
+Casual social chess events are hosted at the Grain & Hop Store
+pub and at Café Foy in Cambridge.
